@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, El planeta de los simios la guerra
-http://cdn1602.opentraffic.live:2052/free16/265/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI0IDQ6NTg6MjEgUE0maGFzaF92YWx1ZT16YnpVMThUZFQ5U0padkgrZUtTM3R3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1, Eventos
+https://204a1eb50ee6.us-east-1.playback.live-video.net/api/video/v1/us-east-1.442426874016.channel.eYpjJPQ4lvRV.m3u8
 
 #EXTINF:-1, SKY Sports
 https://bwfrzq.la10tv.com/lb/mls3/index.m3u8?token=e6185a815086d1fcdc8ea8b7b97175e69a3c93ae-7255ebfabc0add8c418e3c63b74246ec-1726394067-1726358067&remote=190.14.134.42
