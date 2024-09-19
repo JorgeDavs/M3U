@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-https://204a1eb50ee6.us-east-1.playback.live-video.net/api/video/v1/us-east-1.442426874016.channel.eYpjJPQ4lvRV.m3u8
+https://fonz01.dlive.click/VLh0sy18sYdyGarE0QaFJg/1726800470/323830333a643130303a653739303a3636633a323937303a356634303a333536393a62366637/ff492/playlist.m3u8?b=1
 
 #EXTINF:-1, SKY Sports
-https://b2zmawnpyww.la10tv.com/sky_sports_laliga/tracks-v1a1/mono.m3u8?remote=190.14.134.42&token=1de51884bd254aea842f31441dbd06634f8ea7d3-a1e0d69f59cf1968ac4e88559c0d94db-1726445059-1726409059
+https://fonz01.dlive.click/2t-mPbFttDRQgBa5AX_NiA/1726800561/323830333a643130303a653739303a3636633a323937303a356634303a333536393a62366637/ff479/playlist.m3u8?b=1
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
-https://cale.pricesaskeloadsc.com/espn_deportes/tracks-v1a1/mono.m3u8?token=354026f07e5b143f4ab2eb9c0d2a72619ea7f8aa-23-1726444809-1726408809
+https://fonz02.dlive.click/dCcbOiyiu9pR5IKwaSGn_w/1726800715/323830333a643130303a653739303a3636633a323937303a356634303a333536393a62366637/ff485/playlist.m3u8?b=1
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s", Claro Sports 2 GT
 http://cdn1702.opentraffic.live:2052/free17/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI0IDI6MDk6MDkgUE0maGFzaF92YWx1ZT1ia3h4ckh5Tno0SCs2ajlBUXFlT3hBPT0mdmFsaWRtaW51dGVzPTI0MA==
