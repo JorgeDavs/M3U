@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-https://z29vzc.la10tv.com/lb/dsports/index.m3u8?token=b43a97bc86ab9db3d6fe1418799ea19751ffa96a-f9d54fbd3297841b28e4579858327c44-1727240032-1727204032&remote=190.14.134.139
+https://am91cm5leq.la10tv.com/lb/espn/index.m3u8?token=e11985be8080733714f71d363e215e68a17a7aa8-c7c204bef6820392ce195601c9980bd3-1727325887-1727289887&remote=190.14.134.139
 
 #EXTINF:-1, SKY Sports
-https://ym9yzq.la10tv.com/lb/sky_sports_laliga/index.m3u8?token=05e792ca1a82ef1d87283716d92d205963362d7e-77634624740fd85f3733c3e405a2ae92-1727240072-1727204072&remote=190.14.134.139
+https://bwfrzq.la10tv.com/lb/sky_sports_laliga/index.m3u8?token=d732fb3c7723ec1ef9f1fb324b73bf6ec8465b45-157f642794b56ab8b384458fd0595e9b-1727325983-1727289983&remote=190.14.134.139
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
-https://bwfrzq.la10tv.com/lb/espndeportes/index.m3u8?token=87bdfe1a49d2fbef409d8008eb29b031f40edf92-aaec2a5d133bb50bf70dfac19509dc28-1727239947-1727203947&remote=190.14.134.139
+https://b2zmawnpyww.la10tv.com/lb/espndeportes/index.m3u8?token=638fc25d27beda160eaed25e18655665540f5509-1f4fc59c230148a83087c505f2e6f943-1727325797-1727289797&remote=190.14.134.139
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s", Claro Sports 2 GT
 http://cdn1602.opentraffic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDI0IDQ6MjA6NDQgUE0maGFzaF92YWx1ZT1JaXhIcFo4Q2dHV0RDMlRDZU1UTFB3PT0mdmFsaWRtaW51dGVzPTI0MA==
