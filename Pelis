@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.HI3SOyCkV16f.m3u8?browser_family=chrome&browser_version=130.0&cdm=wv&os_name=Android&os_version=14&platform=mobile_web&player_backend=mediaplayer&player_version=1.31.0&supported_codecs=av1,h265,h264&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvSEkzU095Q2tWMTZmIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20saHR0cHM6Ly8qLmtpY2subGl2ZSxodHRwczovL3BsYXllci5raWNrLmNvbSxodHRwczovL2FkbWluLmtpY2suY29tLGh0dHBzOi8vYmV0YS5raWNrLmNvbSxodHRwczovL25leHQua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTcyOTQ2NzQxNn0.OgeSWvu5XJOOR11jARqSytAtfyedkYR1wXWrakQ_5JO3ijGB13ix7rK-E_ivyjFjz_0-sT3Uq-KihkzUmj35ZFtGubWBItgjNW4BMcEr2XnPjZCmuUFeDY34pRM-oRtI
+https://z29vzc.la10tv.com/lb/espndeportes/index.m3u8?token=e80e750dcfe4d016b362535e5d24f6c42deb3801-64-1729980699-1729966299&id=190.14.134.198
 
 #EXTINF:-1, SKY Sports
-https://y2fzdgxl.la10tv.com/lb/sky_sports_laliga/index.m3u8?token=4b6b98de3ac60d0810f0bfa0f212105a05044af6-f3-1729485799-1729449799&id=190.14.134.235
+https://off2.jismhaitokia.com:999/hls/extremohuawei.m3u8?md5=Xk-B_4gglY-NNCIEM6MPVQ&expires=1729974498
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
-https://z29vzc.la10tv.com/lb/espndeportes/index.m3u8?token=f727fc6be477a0f70a310f8454e7fda38ced4f8e-30-1729485762-1729449762&id=190.14.134.235
+https://ab1.dbcast.live/p/D-R1BtaO6WQ8Jl6g-lgwBw/d4bd325b83337630/323830333a643130303a653739303a3265313a613033313a623664373a626131623a34653238/1729996207.m3u8
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s", Claro Sports 2 GT
-https://812.pricesaskeloadsc.com/global/sky_sports2_mx/index.m3u8?token=e8201c9d2834c34a31c3489d55915153d996c518-86-1728794151-1728758151
+https://vadp.pricesaskeloadsc.com/global/dsports/index.m3u8?token=6ac107d0a97d1b83ce58941c32cc6ce11148fb07-5c-1730002160-1729966160
 
 #EXTINF:-1, Eventos 2
 https://am91cm5leq.la10tv.com/lb/espn/index.m3u8?token=86fbb3dc90e66b5fcf9370bd9f2bbb654efdfa23-08d3a1bf754f69af84da1d5003adca9f-1728794539-1728758539&remote=190.14.134.235
