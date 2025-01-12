@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-http://cdn1602.opentraffic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjUgNjo0NTo1NyBQTSZoYXNoX3ZhbHVlPXB6QnFCejEyYWtLWmR1SmUvR2VYelE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://cdn1702.opentraffic.live:2052/free17/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI1IDY6NDE6MTEgUE0maGFzaF92YWx1ZT1iTW9HMHhvay80U2dZQmlJL0hnOE13PT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, SKY Sports
 https://d2hpc3rszq.fubohd.com/lb/dsports/index.m3u8?token=2bf6451db8e026ac37f97efb222c934bd02aeebf-74-1736397190-1736361190
