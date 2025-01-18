@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-http://cdn1702.opentraffic.live:2052/free17/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMi8yMDI1IDY6NDE6MTEgUE0maGFzaF92YWx1ZT1iTW9HMHhvay80U2dZQmlJL0hnOE13PT0mdmFsaWRtaW51dGVzPTI0MA==
+http://cdn1602.opentraffic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDI1IDc6NDc6MzEgUE0maGFzaF92YWx1ZT1QZWtIR2hlZys5M2xiL0IrNHpEc1pBPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1, SKY Sports
-https://bwfrzq.fubohd.com/lb/espnplus1/index.m3u8?token=c71b99c374f42a068df940e842351c18ff6b34df-9c-1736742542-1736706542
+https://bwfrzq.fubohd.com/load/espn/index.m3u8?token=3a27b24f44a6b23c83375863951703dc44fd99b7-2f-1737264794-1737228794
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
-https://cxvpy2s.fubohd.com/lb/espndeportes/index.m3u8?token=807e789ee56ebe87ff7f7b076aa4febe823c1654-b2-1736742509-1736706509
+https://bwfrzq.fubohd.com/load/espndeportes/index.m3u8?token=b0cdd8c58b1fac6d160a57753b2a33a1b94c8027-56-1737264813-1737228813
 
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7t2JcQN0ChaH4iY9eAcsV9MpcZIi8NysBQ&s", Claro Sports 2 GT
-https://bwfrzq.fubohd.com/lb/dsports/index.m3u8?token=a39db8727be632c6f15091adbde1559f583fac5e-62-1736742530-1736706530
+https://c3bvcnrz.fubohd.com/load/m_laligatv/index.m3u8?token=4c51c683e08ddbf1bc59c96f7e49391f660ef580-c1-1737264891-1737228891
 
 #EXTINF:-1, Eventos 2
 https://am91cm5leq.la10tv.com/lb/espn/index.m3u8?token=86fbb3dc90e66b5fcf9370bd9f2bbb654efdfa23-08d3a1bf754f69af84da1d5003adca9f-1728794539-1728758539&remote=190.14.134.235
