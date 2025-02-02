@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-http://cdn1702.opentraffic.live:2052/free17/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDI1IDc6NTY6MTAgUE0maGFzaF92YWx1ZT1vd0p5SEY3QkFQNmtjT29LamxiNjdRPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://cdn1602.opentraffic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMjUgMTowMzowNSBQTSZoYXNoX3ZhbHVlPWVCcE1wUEdLMjJKMStDNTd3ZUZBOFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1, SKY Sports
-https://bgfuzq.fubohd.com/espndeportes/mono.m3u8?md5=di8X297JvR-IAHRf8pCh6A&expires=1737956568
+https://y2fzdgxl.fubohd.com/espndeportes/mono.m3u8?token=ec14e49bb75eed3506d8c9210fd4d3738033b391-4c-1738536609-1738500609
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
 https://bgfuzq.fubohd.com/dsports/mono.m3u8?md5=CHCG1Z0ttoxoGbUDgxD3tw&expires=1737956623
