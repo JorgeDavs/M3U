@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-https://dglvz29s.fubohd.com/espndeportes/mono.m3u8?token=af78b382d9bdc8123d685ee8e7fccb7bac21cb93-16-1739079569-1739043569
+https://dglvz29s.fubohd.com/load/espndeportes/index.m3u8?token=d0e21fea80268cd0ec1986f42dc7b8bb07d5b33f-68-1739166189-1739130189
 
 #EXTINF:-1, SKY Sports
-https://c2nvdxq.fubohd.com/sky_sports_laliga/mono.m3u8?token=aaf52d16850077186966dcf878982fe855d0f4ce-78-1739079616-1739043616
+https://a2lja3m.fubohd.com/load/espnplus12/mono.m3u8?token=06f4dffed1e7c775aeadad90a96b800b1526b61b-68-1739166219-1739130219
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
 https://a2lja3m.fubohd.com/espnplus8/mono.m3u8?token=0a3a80393355d10bc2b2c0c5683aadf3db74f599-5e-1739079597-1739043597
