@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-http://cdn1602.opentraffic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNi8yMDI1IDg6MDI6NTAgUE0maGFzaF92YWx1ZT12V2FzYjhLSHRVcFBoWGRxVjlUeHJBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://vsd198.okcdn.ru/cmaf/8179068701428/sig/RVU8eNT0UFk/expires/1742689771987/srcIp/190.14.134.160/urls/185.226.52.54/clientType/36/srcAg/CHROME_ANDROID/mid/9799440549876/get/dash_9799440549876.7hsA75ob26I.mpd?offset_p=1000
 
 #EXTINF:-1, SKY Sports
 https://am91cm5leq.fubohd.com/sky_sports_laliga/mono.m3u8?token=258edf2f5fd25134a6416e47700492a1edcc16d2-b9-1742190656-1742154656
