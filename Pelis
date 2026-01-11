@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1, Eventos
-http://cdn1602.cdnpublic.live:2052/free16/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS84LzIwMjYgNjo0OTowNyBQTSZoYXNoX3ZhbHVlPXF2Nm1rTXg3WFJLazhQM0dlYWpuS0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://cdn1702.cdnpublic.live:2052/free17/118/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI2IDY6NTI6MzcgUE0maGFzaF92YWx1ZT0yaUxQWUFhSDVNMzdKdVkxelRNanhnPT0mdmFsaWRtaW51dGVzPTUmaWQ9MjllOGVjZWIyYzY5YmI3Mg==
 
 EXTINF:-1, SKY Sports
-https://florcd1.crackstreamslivehd.com/global/skysportslaliga/index.m3u8?token=9072a9b1c9770ac07ecc44e0f18fa16ed2e94f8b-e6-1767943525-1767889525&ip=190.14.134.146
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", Espn Deportes
 https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
